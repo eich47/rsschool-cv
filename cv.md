@@ -4,20 +4,20 @@
 4. I know javascript, git
 5. I learn markdown.
 
-Example:
+   Example:
 
-### I want to learn:
+   ### I want to learn:
 
-- html
-- css
-- _javascript_
-- writing code
+   - html
+   - css
+   - _javascript_
+   - writing code
 
-```javascript
-function(){
-    console.log("hello world")
-}
-```
+   ```javascript
+   function(){
+       console.log("hello world")
+   }
+   ```
 
 6. I made page making. I used html, css, javascript, parcel. You can find source code on github: [project on Github](https://github.com/eich47/coffee)
 7. I graduated from University. I learn javascript on a site: learn.javascript.ru. I read many tutorial in internet. Sometime I watched youtube.
