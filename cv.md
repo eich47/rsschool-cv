@@ -2,3 +2,19 @@
 2. Contact: eich47 (skype)
 3. I want to be javascript developer. I ready to learn every day. I know html, css and a little javascript:)
 4. I know javascript, git
+5. I learn markdown.
+
+Example:
+
+### I want to learn:
+
+- html
+- css
+- _javascript_
+- writing code
+
+```javascript
+function(){
+    console.log("hello world")
+}
+```
