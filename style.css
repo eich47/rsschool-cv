@@ -1,0 +1,108 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  display: inline-block;
+  color: #cd6326;
+  text-decoration: none;
+}
+
+a:hover,
+a:active,
+a:focus {
+  text-decoration: underline;
+}
+
+/* style of common block*/
+
+.wrapper-width {
+  display: block;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.one-line-block:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.title-block {
+  display: block;
+  font-size: 2rem;
+  text-align: left;
+  margin-bottom: 16px;
+  margin-top: 0;
+}
+
+.description-block {
+  display: block;
+  text-align: left;
+}
+
+/*style of logo block*/
+
+.logo-block {
+  margin: 0 0 20px;
+}
+
+/*style of layout*/
+
+.one-line-block__row {
+  display: flex;
+  width: 100%;
+}
+
+.one-line-block__col-1 {
+  width: 70px;
+  margin-right: 20px;
+}
+
+.one-line-block__col-2 {
+  flex-grow: 1;
+}
+
+/*style for element into columns*/
+
+.one-line-block__col-1 .img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.one-line-block__col-2 .title-block {
+  margin-bottom: 5px;
+}
+
+/*style of skills list*/
+
+.list {
+  padding-left: 16px;
+}
+
+/*style for date in footer*/
+
+.date-block {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
